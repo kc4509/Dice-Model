@@ -1,0 +1,30 @@
+C:\Users\Kelly\source\repos\Dice Model\Dice Model\bin\Debug\net6.0\Dice Model.exe
+C:\Users\Kelly\source\repos\Dice Model\Dice Model\bin\Debug\net6.0\Dice Model.deps.json
+C:\Users\Kelly\source\repos\Dice Model\Dice Model\bin\Debug\net6.0\Dice Model.runtimeconfig.json
+C:\Users\Kelly\source\repos\Dice Model\Dice Model\bin\Debug\net6.0\Dice Model.dll
+C:\Users\Kelly\source\repos\Dice Model\Dice Model\bin\Debug\net6.0\Dice Model.pdb
+C:\Users\Kelly\source\repos\Dice Model\Dice Model\obj\Debug\net6.0\Dice Model.csproj.AssemblyReference.cache
+C:\Users\Kelly\source\repos\Dice Model\Dice Model\obj\Debug\net6.0\Dice Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\source\repos\Dice Model\Dice Model\obj\Debug\net6.0\Dice Model.AssemblyInfoInputs.cache
+C:\Users\Kelly\source\repos\Dice Model\Dice Model\obj\Debug\net6.0\Dice Model.AssemblyInfo.cs
+C:\Users\Kelly\source\repos\Dice Model\Dice Model\obj\Debug\net6.0\Dice Model.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\source\repos\Dice Model\Dice Model\obj\Debug\net6.0\Dice Model.dll
+C:\Users\Kelly\source\repos\Dice Model\Dice Model\obj\Debug\net6.0\refint\Dice Model.dll
+C:\Users\Kelly\source\repos\Dice Model\Dice Model\obj\Debug\net6.0\Dice Model.pdb
+C:\Users\Kelly\source\repos\Dice Model\Dice Model\obj\Debug\net6.0\Dice Model.genruntimeconfig.cache
+C:\Users\Kelly\source\repos\Dice Model\Dice Model\obj\Debug\net6.0\ref\Dice Model.dll
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dice Model\Dice Model\Dice Model\bin\Debug\net6.0\Dice Model.exe
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dice Model\Dice Model\Dice Model\bin\Debug\net6.0\Dice Model.deps.json
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dice Model\Dice Model\Dice Model\bin\Debug\net6.0\Dice Model.runtimeconfig.json
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dice Model\Dice Model\Dice Model\bin\Debug\net6.0\Dice Model.dll
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dice Model\Dice Model\Dice Model\bin\Debug\net6.0\Dice Model.pdb
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dice Model\Dice Model\Dice Model\obj\Debug\net6.0\Dice Model.csproj.AssemblyReference.cache
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dice Model\Dice Model\Dice Model\obj\Debug\net6.0\Dice Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dice Model\Dice Model\Dice Model\obj\Debug\net6.0\Dice Model.AssemblyInfoInputs.cache
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dice Model\Dice Model\Dice Model\obj\Debug\net6.0\Dice Model.AssemblyInfo.cs
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dice Model\Dice Model\Dice Model\obj\Debug\net6.0\Dice Model.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dice Model\Dice Model\Dice Model\obj\Debug\net6.0\Dice Model.dll
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dice Model\Dice Model\Dice Model\obj\Debug\net6.0\refint\Dice Model.dll
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dice Model\Dice Model\Dice Model\obj\Debug\net6.0\Dice Model.pdb
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dice Model\Dice Model\Dice Model\obj\Debug\net6.0\Dice Model.genruntimeconfig.cache
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dice Model\Dice Model\Dice Model\obj\Debug\net6.0\ref\Dice Model.dll
